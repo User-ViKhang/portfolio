@@ -22,5 +22,21 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 **Manual Testing**
-  * can design and execute manual test cases for web, mobile, and desktop applications
-  * can develop and maintain automation test scripts using Playwright, Robot Framework, and TestNG
+  * Can design and execute manual test cases for web, mobile, and desktop applications
+  * Can develop and maintain automation test scripts using Playwright, Robot Framework, and TestNG
+  * gained hands-on experience testing retail systems (BOM, Central, POS), ecommerce, and Web3 applications
+  * can perform regression, sanity, smoke, and UAT testing
+    
+**Automation Testing**
+  * experienced in building automation frameworks using Playwright and Robot Framework
+  * can write automation scripts using TypeScript
+  * can integrate test reporting tools such as Allure
+  * able to configure and run automated test pipelines using GitHub Actions
+  * applied automation testing for web, API, and mobile applications
+    
+**API Testing**
+  * experienced in testing RESTful APIs
+  * can design and execute API test cases
+  * able to validate request and response data
+  * familiar with API testing tools such as Postman and Swagger
+  * experienced in API mocking and handling authentication (JWT)
