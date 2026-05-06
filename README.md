@@ -21,6 +21,6 @@ With a strong attention to detail and a logical testing mindset, I am passionate
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1MMvUMawSb_GDb1-Rm4inZkiLOVjuEiis/view?usp=sharing).
 
 ## Skills
-* [Manual Testing](#manual-testing)
+  ## Manual Testing
   * can design and execute manual test cases for web, mobile, and desktop applications
   * can develop and maintain automation test scripts using Playwright, Robot Framework, and TestNG
