@@ -5,6 +5,7 @@
 * [Tools](#tools)
 * [Courses](#courses)
 * [Example of my work](#example)
+* 
   ---
 
 ## About me
@@ -15,3 +16,6 @@ I have experience designing and executing test cases, performing API testing, an
 I have also worked on web, mobile, and Web3 projects, integrating automated test workflows with tools like GitHub Actions. 
 
 With a strong attention to detail and a logical testing mindset, I am passionate about ensuring product quality and continuously improving my automation skills to grow as a QA Engineer.
+
+##CV
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1MMvUMawSb_GDb1-Rm4inZkiLOVjuEiis/view?usp=sharing).
