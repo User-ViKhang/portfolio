@@ -22,5 +22,5 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 * [Manual Testing]
-* can design and execute manual test cases for web, mobile, and desktop applications
-* can develop and maintain automation test scripts using Playwright, Robot Framework, and TestNG
+  * can design and execute manual test cases for web, mobile, and desktop applications
+  * can develop and maintain automation test scripts using Playwright, Robot Framework, and TestNG
